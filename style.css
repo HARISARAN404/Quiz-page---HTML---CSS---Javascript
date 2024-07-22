@@ -1,0 +1,16 @@
+div{
+    background-color: bisque;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 600px;
+    padding-left: 20px;
+    margin: 10% auto;
+}
+button{
+
+    height: 40px;
+    width: 400px;
+    text-align: left;
+    border: solid 1px;
+}
